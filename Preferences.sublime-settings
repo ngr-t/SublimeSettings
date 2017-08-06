@@ -1,0 +1,11 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Boxy Monokai.sublime-theme",
+	"vintageous_use_ctrl_keys": true,
+	"vintageous_use_sys_clipboard": true
+}

@@ -1,0 +1,25 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutomaticPackageReloader",
+		"BetterFindBuffer",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Mono File Icons",
+		"Boxy Theme Addon - Widget Font Size",
+		"ConvertToUTF8",
+		"Git",
+		"GitGutter",
+		"MarkdownLight",
+		"Mercurial",
+		"OmniMarkupPreviewer",
+		"ProjectManager",
+		"SideBarEnhancements",
+		"Sublimerge 3",
+		"TerminalView",
+		"Todo"
+	]
+}
