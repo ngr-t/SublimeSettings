@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+class ${1:Table}(${2:Base}):
+	__tablename__ = "${3:tablename}"
+
+	${4}
+]]></content>
+	<tabTrigger>table</tabTrigger>
+	<scope>source.python</scope>
+</snippet>

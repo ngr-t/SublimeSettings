@@ -10,4 +10,5 @@ Package Control.ca-certs
 Sublimerge Macros.sublime-commands
 Projects
 *.tmTheme
+encoding_cache.json
 

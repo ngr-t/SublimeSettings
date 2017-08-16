@@ -1,11 +1,16 @@
 {
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"font_size": 9,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Python",
+		"Six",
+		"Vintage",
+		"Vintageous"
 	],
 	"theme": "Boxy Monokai.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
 	"vintageous_use_ctrl_keys": true,
 	"vintageous_use_sys_clipboard": true
 }
