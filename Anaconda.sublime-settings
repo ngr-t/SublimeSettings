@@ -1,0 +1,4 @@
+{
+    // Maximum line length for pep8
+    "pep8_max_line_length": 119,
+}
