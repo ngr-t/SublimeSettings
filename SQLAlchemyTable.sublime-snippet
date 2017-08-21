@@ -3,7 +3,8 @@
 class ${1:Table}(${2:Base}):
 	__tablename__ = "${3:tablename}"
 
-	${4}
+	${4:id = Column(INTEGER(unsigned=True), autoincrement=True, nullable=False)}
+	${5}
 ]]></content>
 	<tabTrigger>table</tabTrigger>
 	<scope>source.python</scope>
