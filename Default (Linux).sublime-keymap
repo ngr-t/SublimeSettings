@@ -12,6 +12,10 @@
 			}
 		]
 	},
+	{
+		"keys": ["ctrl+enter"],
+		"command": "hermes_execute_block"
+	},
 	// Auto-pair block quotes
 	{ "keys": ["`"], "command": "insert_snippet", "args": {"contents": "`$0`"}, "context":
 		[
