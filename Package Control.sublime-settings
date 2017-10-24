@@ -1,10 +1,14 @@
 {
 	"bootstrapped": true,
+	"ignored_packages":
+	[
+	],
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"Advanced CSV",
 		"Anaconda",
 		"Asciidoctor",
 		"AutomaticPackageReloader",
@@ -14,12 +18,18 @@
 		"Boxy Theme Addon - Mono File Icons",
 		"Boxy Theme Addon - Widget Font Size",
 		"Case Conversion",
+		"Chain of Command",
 		"ConvertToUTF8",
 		"FileList",
 		"Git",
 		"GitGutter",
+		"Hermes",
+		"Highlight",
+		"Insert Nums",
 		"JSON Reindent",
 		"Julia",
+		"knitr",
+		"Log Highlight",
 		"MagicPython",
 		"Markdown Preview",
 		"MarkdownEditing",
@@ -34,17 +44,19 @@
 		"ProjectManager",
 		"QuickSearchEnhanced",
 		"R-Box",
+		"Pretty JSON",
+		"ProjectManager",
+		"SendCode",
 		"SideBarEnhancements",
 		"SnippetManager",
 		"SQLTools",
 		"SublimeLinter",
 		"SublimeLinter-contrib-julialint",
 		"Sublimerge 3",
+		"Swap Selections",
+		"SyncedSideBar",
 		"TerminalView",
-		"Todo"
-	],
-	"repositories":
-	[
-		"https://github.com/yasuyuky/SublimeMozcInput"
+		"Todo",
+		"TodoReview"
 	]
 }

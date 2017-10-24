@@ -1,11 +1,13 @@
 {
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
-	"font_size": 9,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 11,
 	"ignored_packages":
 	[
+		"JSON Reindent",
 		"Python",
 		"Six",
+		"Todo",
 		"Vintage",
 		"Vintageous"
 	],
