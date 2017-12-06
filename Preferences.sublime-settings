@@ -1,16 +1,19 @@
 {
+	"anaconda_linter_phantoms": true,
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 11,
 	"ignored_packages":
 	[
 		"JSON Reindent",
+		"Log Highlight",
 		"Python",
 		"Six",
 		"Todo",
 		"Vintage",
 		"Vintageous"
 	],
+    "mypy": true,
 	"theme": "Boxy Monokai.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"vintageous_use_ctrl_keys": true,
