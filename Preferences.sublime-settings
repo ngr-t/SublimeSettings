@@ -1,5 +1,5 @@
 {
-	"anaconda_linter_phantoms": true,
+	"anaconda_linter_phantom": true,
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"font_size": 11,
@@ -13,7 +13,7 @@
 		"Vintage",
 		"Vintageous"
 	],
-    "mypy": true,
+	"mypy": false,
 	"theme": "Boxy Monokai.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"vintageous_use_ctrl_keys": true,

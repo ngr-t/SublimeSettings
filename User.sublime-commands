@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "User: Close unsaved files",
+        "command": "close_unsaved_files"
+    }
+]

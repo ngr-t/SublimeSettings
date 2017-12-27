@@ -53,4 +53,5 @@
 			{ "key": "eol_selector", "operator": "not_equal", "operand": "string.quoted.double - punctuation.definition.string.end", "match_all": true },
 		]
 	},
+	{ "keys": ["ctrl+="], "command": "alignment" },
 ]
